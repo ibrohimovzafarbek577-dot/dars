@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(2, 2, 124); padding: 10px;
+}
+.dsh1{
+    background-color: rgb(52, 52, 255) ; width: 1420px; height: 1050px;
+    text-align: center; color: white; padding: 20px; border-radius: 15px;
+}
+
+.img5{
+    border-radius: 10px;
+}
+table,th,td{
+    border: 1px solid black; border-collapse: collapse; background-color: rgb(2, 2, 124);
+}
+.a112{
+    width: 200px; height: 30px;
+}
+.a113{
+    width: 1000px;
+}
+.a114{
+    background-color: rgb(255, 136, 0); 
+}
+.a111{
+      background-color: rgb(255, 136, 0);  width: 200px; height: 30px;
+}
+.divv{
+    width: 220px;height: 230px; background-color: rgb(34, 34, 116); border-radius: 10px; align-content: center;
+}
+.immg{
+    border-radius: 10px 10px 0 0 ; width: 220px; height: 120px; 
+}
+.pi{
+color: rgb(255, 136, 0); ; font-size: 20px;
+}
+.ap{
+    color: white ; font-size: 12px  ;
+}
+.divv1{
+    width: 220px;height: 230px; background-color: rgb(34, 34, 116); border-radius: 10px;
+}
+.immg1{
+    border-radius: 10px 10px 0 0 ; width: 220px; height: 120px; 
+}
+.pii{
+color: rgb(255, 136, 0); ; font-size: 20px;
+}
+.api{
+    color: white ; font-size: 12px  ;
+}
